@@ -7,9 +7,9 @@
  - The Server is discoverable using SSDP
  
 	Currently SSDP uses these params
-	SSDP_ADDR = "239.255.255.250"
-	SSDP_PORT = 1900
-	SSDP_ST = "upnp:omen-masterserver"
+	- SSDP_ADDR = "239.255.255.250"
+	- SSDP_PORT = 1900
+	- SSDP_ST = "upnp:omen-masterserver"
  
  - Services run in a micro service like framework,
    however there isn't an abstraction layer between the services.
