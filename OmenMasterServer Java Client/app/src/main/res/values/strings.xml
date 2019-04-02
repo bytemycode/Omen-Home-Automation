@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OmenMasterServer Client</string>
+    <string name="browse_title"><![CDATA[OmenMasterServer Client]]></string>
+    <string name="hello_blank_fragment">Hello Omen!</string>
+</resources>
